@@ -1,12 +1,20 @@
 # Authors
-# You can set another author using as many attributs as a site owner does.
 
-leo:
-  name: Leo
-  email: example@domain.com
-  bio: "What do you want? Coffee, tea or coca cola?"
+billy_rick:
+  name: Billy Rick
+  web: http://thewhip.com
+  email: billy@rick.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio-photo-2.jpg
+  twitter: extravagantman
+  google:
+    plus: BillyRick
 
-mike:
-  name: Mike
-  email: example2@domain.com
-  bio: "How old are you?"
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
+  avatar: bio-photo.jpg
+  twitter: rhymeswithsackit
+  google:
+    plus: CorneliusFiddlebone
