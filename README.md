@@ -1,13 +1,32 @@
-RedCup
-======
-This is a Jekyll Theme. Rasmus Andersson's blog was used as a base framework for RedCup.
-Check it out [here](http://nadjetey.github.io/redcup/)
+# Leonids Jekyll Themes
 
-I would love to hear from you. Just say [hi](https://twitter.com/_nadjetey).
+**[Leonids](http://renyuanz.github.io/leonids)** is a clean Jekyll theme perfect for powering your GitHub hosted blog.
 
-## Screenshots
+Are you looking for [more themes](https://github.com/renyuanz/leonids/releases)?
 
-![front page](https://raw.github.com/nadjetey/redcup/master/assets/images/redcup-front.png)
-![post page](https://raw.github.com/nadjetey/redcup/master/assets/images/redcup-post.png)
-![search page](https://raw.github.com/nadjetey/redcup/master/assets/images/redcup-search.png)
-![archive page](https://raw.github.com/nadjetey/redcup/master/assets/images/redcup-archive.png)
+## What is Leonids?
+
+* Responsive templates. Looking good on mobile, tablet, and desktop.
+* Simple and clear permalink structure.
+* Support for Disqus Comments.
+* Support for multi-authors.
+* **And** the Leonids (/ˈliːənɪdz/ lee-ə-nidz) are a prolific meteor shower associated with the comet [Tempel-Tuttle](https://en.wikipedia.org/wiki/55P/Tempel%E2%80%93Tuttle).
+
+See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub.
+
+## Quick setup
+
+`git clone https://github.com/renyuanz/leonids`
+
+`cd leonids`
+
+`jekyll server`
+
+Check out your awesome blog at `http://localhost:4000` and Cheers!
+
+## TODO
+
+- [ ] Build a timeline page.
+- [ ] Build a portfolio page.
+- [ ] Redesign categories page. Ref: [dribbble: blog category section By Ilja Miskov](https://dribbble.com/shots/2274792-Blog-Category-Selection)
+- [ ] Multi languages support.
