@@ -1,30 +1,34 @@
-# So Simple Theme
+##[点我查看中文说明](https://github.com/dubuyuye/blog/blob/gh-pages/README_zh_CN.md)
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+# Blog Address
 
-[![Build Status](https://travis-ci.org/mmistakes/so-simple-theme.svg?branch=master)](https://travis-ci.org/mmistakes/so-simple-theme)
+<http://blog.rainyalley.com/>
 
-## So Simple Theme is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
-* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
-* Support for Disqus Comments
+# Must Modify
 
-![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
+## 1.swiftype
 
-See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
+This service provides the on-site search function.
 
----
+Service address： <https://swiftype.com/>.
 
-## Getting Started
+After the setup is complete， you need to modify the `swiftype_searchId` in `_config.yml`.
 
-So Simple takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
+In your swiftype engine, go to `Setup and integration` -> `Install Search`, you could find the `swiftype_searchId`.
 
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
+```html
+<script type="text/javascript">
+...
+...
+  _st('install','swiftype_searchId','2.0.0');
+</script>
+```
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+## 2.disqus
 
+This service provides the comment function.
+
+Service address： <https://disqus.com/>.
+
+After the setup is complete， you need to modify the `disqus_shortname` in `_config.yml`.
