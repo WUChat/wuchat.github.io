@@ -45,11 +45,6 @@ layout: null
     line-height: 25px;
 }
 
-p.navbar-text {
-    font-size: 25px;
-    line-height: 25px;
-}
-
 .navbar-tiffany .nav>li>a:hover,
 .navbar-tiffany .nav>li>a:focus,
 .navbar-tiffany .nav>li.active>a {
