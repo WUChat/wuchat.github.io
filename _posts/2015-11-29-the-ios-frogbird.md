@@ -11,7 +11,6 @@ categories: app
 # 游戏介绍
 
 ![fbico][fbico]
-
 ![fb1][fb1] ![fb2][fb2] ![fb3][fb3]
 
 # 游戏截图
