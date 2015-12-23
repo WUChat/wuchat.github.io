@@ -22,6 +22,7 @@ categories: app
 [Github]:http://baike.baidu.com/item/github
 [flappy bird]:http://baike.baidu.com/view/12097039.htm
 
+!img
 [fbico]: {{"/fbico.png" =50x50| prepend: site.imgrepo2 }}
 [fb1]: {{"/fb1.png" =200x356| prepend: site.imgrepo2 }}
 [fb2]: {{"/fb2.png" =200x356| prepend: site.imgrepo2 }}
