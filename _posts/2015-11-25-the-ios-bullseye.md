@@ -10,11 +10,11 @@ categories: app
 
 # 游戏logo
 
-![fbico][fbico]
+![logo][logo]
 
 # 游戏截图
 
-![fb1][fb1]  ![fb2][fb2]  ![fb3][fb3]
+![s1][s1]  ![s2][s2]  ![s3][s3]
 
 # [项目主页][项目主页] 
 
@@ -26,10 +26,10 @@ categories: app
 [flappy bird]:http://baike.baidu.com/view/12097039.htm
 [项目主页]:http://wuchat.github.io/FrogBird/
 
-[fbico]: {{"/fbico.png" =50x50| prepend: site.imgrepo2 }}
-[fb1]: {{"/fb1.jpg" =200x356| prepend: site.imgrepo2 }}
-[fb2]: {{"/fb2.jpg" =200x356| prepend: site.imgrepo2 }}
-[fb3]: {{"/fb3.jpg" =200x356| prepend: site.imgrepo2 }}
+[logo]: {{"frogbird/logo.png" =50x50| prepend: site.imgrepo2 }}
+[s1]: {{"frogbird/s1.jpg" =200x356| prepend: site.imgrepo2 }}
+[s2]: {{"frogbird/s2.jpg" =200x356| prepend: site.imgrepo2 }}
+[s3]: {{"frogbird/s3.jpg" =200x356| prepend: site.imgrepo2 }}
 [applestore]: {{"/applestore.png" | prepend: site.imgrepo2 }}
 [googleplay]: {{"/googleplay.png" | prepend: site.imgrepo2 }}
 [wandoujia]: {{"/wandoujia.png" | prepend: site.imgrepo2 }}
