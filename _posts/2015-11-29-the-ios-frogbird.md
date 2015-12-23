@@ -16,11 +16,11 @@ categories: app
 
 ![fb1][fb1]  ![fb2][fb2]  ![fb3][fb3]
 
-# [项目主页][项目主页] 
+[项目主页][项目主页] 
 
-[下载链接][下载链接]
+# 下载链接
 
-
+苹果商店: ![apple][apple]   Android豌豆荚：![android][android]
 
 [Github]:http://baike.baidu.com/item/github
 [flappy bird]:http://baike.baidu.com/view/12097039.htm
@@ -31,3 +31,5 @@ categories: app
 [fb1]: {{"/fb1.jpg" =200x356| prepend: site.imgrepo2 }}
 [fb2]: {{"/fb2.jpg" =200x356| prepend: site.imgrepo2 }}
 [fb3]: {{"/fb3.jpg" =200x356| prepend: site.imgrepo2 }}
+[apple]: {{"/app_store_button.png" =200x356| prepend: site.imgrepo2 }}
+[android]: {{"/google_button.png" =200x356| prepend: site.imgrepo2 }}
