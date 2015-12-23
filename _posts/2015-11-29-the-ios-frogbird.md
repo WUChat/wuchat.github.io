@@ -10,7 +10,9 @@ categories: app
 
 # 游戏介绍
 
+![fbico][fbico]
 
+![fb1][fb1] ![fb2][fb2] ![fb3][fb3]
 
 # 游戏截图
 
@@ -20,3 +22,9 @@ categories: app
 
 [Github]:http://baike.baidu.com/item/github
 [flappy bird]:http://baike.baidu.com/view/12097039.htm
+
+//img
+![fbico]: {{"/faico.png" | prepend: site.imgrepo2 }}
+![fb1]: {{"/fb1.png" | prepend: site.imgrepo2 }}
+![fb2]: {{"/fb2.png" | prepend: site.imgrepo2 }}
+![fb3]: {{"/fb3.png" | prepend: site.imgrepo2 }}
