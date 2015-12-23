@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ios small game Cookie Boom 饼干对撞：人气小游戏糖果粉碎的饼干版  
-tags: game   
+title: Cookie Boom 饼干对撞：人气小游戏糖果粉碎的饼干版  
+tags: ios game   
 categories: ios
 ---
 # 项目介绍
