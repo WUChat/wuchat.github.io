@@ -2,7 +2,7 @@
 layout: post
 title: Bull's Eye 正中靶心: 练手气和手指准确度的小游戏  
 tags: ios game
-categories: ios
+categories: app
 ---
 # 项目介绍
 

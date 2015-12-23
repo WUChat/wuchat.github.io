@@ -2,7 +2,7 @@
 layout: post
 title: Cookie Boom 饼干对撞：人气小游戏糖果粉碎的饼干版  
 tags: ios game   
-categories: ios
+categories: app
 ---
 # 项目介绍
 

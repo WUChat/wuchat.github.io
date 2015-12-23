@@ -2,7 +2,7 @@
 layout: post
 title: Frog Bird 蛙跳鸟：让你想剁手的小游戏, 深陷其中不能自拔！   
 tags: ios game
-categories: ios
+categories: app
 ---
 # 项目介绍
 
