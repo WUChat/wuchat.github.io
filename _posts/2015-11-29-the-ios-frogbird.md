@@ -20,7 +20,7 @@ categories: app
 
 # 下载链接
 
-![apple][apple] ![android][android]
+![applestore][applestore] ![googleplay][googleplay] ![wandoujia][wandoujia]
 
 [Github]:http://baike.baidu.com/item/github
 [flappy bird]:http://baike.baidu.com/view/12097039.htm
@@ -31,5 +31,6 @@ categories: app
 [fb1]: {{"/fb1.jpg" =200x356| prepend: site.imgrepo2 }}
 [fb2]: {{"/fb2.jpg" =200x356| prepend: site.imgrepo2 }}
 [fb3]: {{"/fb3.jpg" =200x356| prepend: site.imgrepo2 }}
-[apple]: {{"/app_store_button.png" =200x356| prepend: site.imgrepo2 }}
-[android]: {{"/google_button.png" =200x356| prepend: site.imgrepo2 }}
+[applestore]: {{"/applestore.png" =200x356| prepend: site.imgrepo2 }}
+[googleplay]: {{"/googleplay.png" =200x356| prepend: site.imgrepo2 }}
+[wandoujia]: {{"/wandoujia.png" =200x356| prepend: site.imgrepo2 }}
