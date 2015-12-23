@@ -24,9 +24,9 @@ categories: app
 
 [Github]:http://baike.baidu.com/item/github
 [flappy bird]:http://baike.baidu.com/view/12097039.htm
-[项目主页]:http://wuchat.github.io/FrogBird/
+[项目主页]:http://wuchat.github.io/CookieBoom/
 
-[logo]: {{"/cookieboom/logo.png" =50x50| prepend: site.imgrepo2 }}
+[logo]: {{"/cookieboom/logo.jpg" =50x50| prepend: site.imgrepo2 }}
 [s1]: {{"/cookieboom/s1.jpg" =200x356| prepend: site.imgrepo2 }}
 [s2]: {{"/cookieboom/s2.jpg" =200x356| prepend: site.imgrepo2 }}
 [applestore]: {{"/applestore.png" | prepend: site.imgrepo2 }}
