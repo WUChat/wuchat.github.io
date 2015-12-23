@@ -33,6 +33,14 @@
                         <li>{% endif %}
                         <a href="{{ site.baseurl | prepend: site.url }}/" class="word-keep"><span class="octicon octicon-book"></span></span>&nbsp;&nbsp;博客 Blog</a>
                         </li>
+                        
+                        <li>
+                            <a href="cv/" class="search-button">
+                                <span class="octicon octicon-paper"></span>
+                                &nbsp;&nbsp;简历 Resume
+                            </a>
+                        </li>
+                        
                         {% for p in site.pages %}{% if p.isNavItem %}
                         {% if p.url == page.url %}
                         <li class="active">{% else %}
@@ -41,12 +49,7 @@
                         </li>
                         {% endif %}
                         {% endfor %}
-                        <li>
-                            <a href="cv/" class="search-button">
-                                <span class="octicon octicon-paper"></span>
-                                &nbsp;&nbsp;简历 Resume
-                            </a>
-                        </li>>
+
                         <li>
                             <a href="#stq=" class="search-button">
                                 <span class="octicon octicon-search"></span>
