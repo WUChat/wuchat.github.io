@@ -31,6 +31,6 @@ categories: app
 [fb1]: {{"/fb1.jpg" =200x356| prepend: site.imgrepo2 }}
 [fb2]: {{"/fb2.jpg" =200x356| prepend: site.imgrepo2 }}
 [fb3]: {{"/fb3.jpg" =200x356| prepend: site.imgrepo2 }}
-[applestore]: {{"/applestore.png" =200x356| prepend: site.imgrepo2 }}
-[googleplay]: {{"/googleplay.png" =200x356| prepend: site.imgrepo2 }}
-[wandoujia]: {{"/wandoujia.png" =200x356| prepend: site.imgrepo2 }}
+[applestore]: http://wuchat.github.io/FrogBird/ {{"/applestore.png" =200x356| prepend: site.imgrepo2 }}
+[googleplay]: http://wuchat.github.io/FrogBird/ {{"/googleplay.png" =200x356| prepend: site.imgrepo2 }}
+[wandoujia]: http://wuchat.github.io/FrogBird/ {{"/wandoujia.png" =200x356| prepend: site.imgrepo2 }}
