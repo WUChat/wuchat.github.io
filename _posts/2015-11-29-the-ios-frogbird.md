@@ -20,7 +20,7 @@ categories: app
 
 # 下载链接
 
-苹果商店: ![apple][apple]   Android豌豆荚：![android][android]
+![apple][apple] ![android][android]
 
 [Github]:http://baike.baidu.com/item/github
 [flappy bird]:http://baike.baidu.com/view/12097039.htm
