@@ -25,10 +25,9 @@ categories: app
 [Github]:http://baike.baidu.com/item/github
 [项目主页]:http://wuchat.github.io/BullsEye/
 
-[logo]: {{"/frogbird/logo.png" =50x50| prepend: site.imgrepo2 }}
-[s1]: {{"/frogbird/s1.jpg" =200x356| prepend: site.imgrepo2 }}
-[s2]: {{"/frogbird/s2.jpg" =200x356| prepend: site.imgrepo2 }}
-[s3]: {{"/frogbird/s3.jpg" =200x356| prepend: site.imgrepo2 }}
+[logo]: {{"/bullseye/logo.png" =50x50| prepend: site.imgrepo2 }}
+[s1]: {{"/bullseye/s1.jpg" =200x356| prepend: site.imgrepo2 }}
+[s2]: {{"/bullseye/s2.jpg" =200x356| prepend: site.imgrepo2 }}
 [applestore]: {{"/applestore.png" | prepend: site.imgrepo2 }}
 [googleplay]: {{"/googleplay.png" | prepend: site.imgrepo2 }}
 [wandoujia]: {{"/wandoujia.png" | prepend: site.imgrepo2 }}

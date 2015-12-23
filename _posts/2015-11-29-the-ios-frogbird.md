@@ -23,7 +23,7 @@ categories: app
 ![applestore][applestore] ![googleplay][googleplay] ![wandoujia][wandoujia]
 
 [Github]:http://baike.baidu.com/item/github
-[flappy bird]:http://baike.baidu.com/view/12097039.htm
+[Flappy bird]:http://baike.baidu.com/link?url=KKoefLnNvfvLTmmJqXEozlN5JbdT_6kBmbiN9gHkGJbrYWrR5Uc5RLmW4OegLoi3oV_vJ_rmVzn_FZoYXpjAta
 [项目主页]:http://wuchat.github.io/FrogBird/
 
 [logo]: {{"/frogbird/logo.png" =50x50| prepend: site.imgrepo2 }}

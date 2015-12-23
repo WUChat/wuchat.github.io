@@ -23,7 +23,7 @@ categories: app
 ![applestore][applestore] ![googleplay][googleplay] ![wandoujia][wandoujia]
 
 [Github]:http://baike.baidu.com/item/github
-[flappy bird]:http://baike.baidu.com/view/12097039.htm
+[Candy Crunsh]:http://baike.baidu.com/link?url=jMIxYPsoMrNh3d0KvPd3Mes94_LrZnbhiuwAtksweIwDYvMxqt2qMYrNeE3PQdxek7LHvFSOddhSAqwdEQbBB_
 [项目主页]:http://wuchat.github.io/CookieBoom/
 
 [logo]: {{"/cookieboom/logo.png" =50x50| prepend: site.imgrepo2 }}
