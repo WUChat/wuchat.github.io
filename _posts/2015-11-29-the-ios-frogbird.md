@@ -25,12 +25,12 @@ categories: app
 [Github]:http://baike.baidu.com/item/github
 [flappy bird]:http://baike.baidu.com/view/12097039.htm
 [项目主页]:http://wuchat.github.io/FrogBird/
-[下载链接]:http://wuchat.github.io/FrogBird/
 
 [fbico]: {{"/fbico.png" =50x50| prepend: site.imgrepo2 }}
 [fb1]: {{"/fb1.jpg" =200x356| prepend: site.imgrepo2 }}
 [fb2]: {{"/fb2.jpg" =200x356| prepend: site.imgrepo2 }}
 [fb3]: {{"/fb3.jpg" =200x356| prepend: site.imgrepo2 }}
-[applestore]: http://wuchat.github.io/FrogBird/ {{"/applestore.png" =200x356| prepend: site.imgrepo2 }}
-[googleplay]: http://wuchat.github.io/FrogBird/ {{"/googleplay.png" =200x356| prepend: site.imgrepo2 }}
-[wandoujia]: http://wuchat.github.io/FrogBird/ {{"/wandoujia.png" =200x356| prepend: site.imgrepo2 }}
+[applestore]: {{"/applestore.png" =200x356| prepend: site.imgrepo2 }}
+[applestore]: http://wuchat.github.io/FrogBird/
+[googleplay]: {{"/googleplay.png" =200x356| prepend: site.imgrepo2 }}
+[wandoujia]: {{"/wandoujia.png" =200x356| prepend: site.imgrepo2 }}
