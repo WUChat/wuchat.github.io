@@ -14,16 +14,21 @@ categories: app
 
 # 游戏截图
 
-截图1
+截图1：
+
 ![fb1][fb1] 
 
-截图2
+截图2：
+
 ![fb2][fb2] 
 
-截图3
+截图3：
+
 ![fb3][fb3]
 
-# 下载分享
+# 项目主页
+
+
 
 [Github]:http://baike.baidu.com/item/github
 [flappy bird]:http://baike.baidu.com/view/12097039.htm
