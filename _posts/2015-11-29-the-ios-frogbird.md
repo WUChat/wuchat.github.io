@@ -16,12 +16,14 @@ categories: app
 
 ![fb1][fb1]  ![fb2][fb2]  ![fb3][fb3]
 
-# 项目主页
+[项目主页][项目主页] [下载链接][下载链接]
 
 
 
 [Github]:http://baike.baidu.com/item/github
 [flappy bird]:http://baike.baidu.com/view/12097039.htm
+[项目主页]:http://wuchat.github.io/FrogBird/
+[下载链接]:http://wuchat.github.io/FrogBird/
 
 [fbico]: {{"/fbico.png" =50x50| prepend: site.imgrepo2 }}
 [fb1]: {{"/fb1.jpg" =200x356| prepend: site.imgrepo2 }}
