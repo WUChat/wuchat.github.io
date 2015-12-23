@@ -31,18 +31,18 @@
                         {% if page.url == "/index.html" %}
                         <li class="active">{% else %}
                         <li>{% endif %}
-                        <a href="{{ site.baseurl | prepend: site.url }}/" class="word-keep"><span class="octicon octicon-book"></span></span>&nbsp;&nbsp;博客 Blog</a>
+                        <a href="{{ site.baseurl | prepend: site.url }}/" class="word-keep"><span class="octicon octicon-book"></span></span>&nbsp;博客 Blog</a>
                         </li>
                         
                         <li>
-                        <a href="cv/"><span class="octicon octicon-repo"></span>&nbsp;&nbsp;简历 Resume</a>
+                        <a href="cv/"><span class="octicon octicon-repo"></span>&nbsp;简历 Resume</a>
                         </li>
                         
                         {% for p in site.pages %}{% if p.isNavItem %}
                         {% if p.url == page.url %}
                         <li class="active">{% else %}
                         <li>{% endif %}
-                            <a href="{{ p.url | prepend: site.baseurl | prepend: site.url }}" class="word-keep"><span class="octicon {{ p.icon }}"></span>&nbsp;&nbsp;{{ p.title }}</a>
+                            <a href="{{ p.url | prepend: site.baseurl | prepend: site.url }}" class="word-keep"><span class="octicon {{ p.icon }}"></span>&nbsp;{{ p.title }}</a>
                         </li>
                         {% endif %}
                         {% endfor %}
@@ -50,7 +50,7 @@
                         <li>
                             <a href="#stq=" class="search-button">
                                 <span class="octicon octicon-search"></span>
-                                &nbsp;&nbsp;搜索 Search
+                                &nbsp;搜索 Search
                             </a>
                         </li>
                     </ul>
