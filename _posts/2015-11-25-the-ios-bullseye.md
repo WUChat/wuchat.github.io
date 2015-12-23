@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Frog Bird 蛙跳鸟：让你想剁手的小游戏, 深陷其中不能自拔！   
+title: Bull's Eye 正中靶心：一个考验你的手气和手指精准度的小游戏！   
 tags: ios game
 categories: app
 ---
 # 游戏介绍
 
-前段时间在 [Github][Github]开源论坛上和开源创友聊天的时候说到一起做mobile studio的事情，最后商量了一翻还是决定从身边随手能拿到的小游戏开始做起，一是节省找灵感的时间，二是大家对中[Flappy Bird][Flappy Bird]类的游戏已经喜欢了。
+前段时间在 [Github][Github]开源论坛上和开源创友聊天的时候说到一起做mobile studio的事情，最后商量了一翻还是决定从身边随手能拿到的小游戏开始做起，于是想法到一款非常简单但很耐玩的小游戏，最好是和朋友之间比赛。
 
 # 游戏logo
 
