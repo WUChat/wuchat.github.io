@@ -26,10 +26,10 @@ categories: app
 [flappy bird]:http://baike.baidu.com/view/12097039.htm
 [项目主页]:http://wuchat.github.io/FrogBird/
 
-[fbico]: {{"/frogbird/fbico.png" =50x50| prepend: site.imgrepo2 }}
-[fb1]: {{"/frogbird/fb1.jpg" =200x356| prepend: site.imgrepo2 }}
-[fb2]: {{"/frogbird/fb2.jpg" =200x356| prepend: site.imgrepo2 }}
-[fb3]: {{"/frogbird/fb3.jpg" =200x356| prepend: site.imgrepo2 }}
+[fbico]: {{"/fbico.png" =50x50| prepend: site.imgrepo2 }}
+[fb1]: {{"/fb1.jpg" =200x356| prepend: site.imgrepo2 }}
+[fb2]: {{"/fb2.jpg" =200x356| prepend: site.imgrepo2 }}
+[fb3]: {{"/fb3.jpg" =200x356| prepend: site.imgrepo2 }}
 [applestore]: {{"/applestore.png" | prepend: site.imgrepo2 }}
 [googleplay]: {{"/googleplay.png" | prepend: site.imgrepo2 }}
 [wandoujia]: {{"/wandoujia.png" | prepend: site.imgrepo2 }}
