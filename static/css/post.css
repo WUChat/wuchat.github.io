@@ -166,3 +166,7 @@
     -ms-user-select: none;
     user-select: none;
 }
+
+div#post-share {
+    float: right;
+}

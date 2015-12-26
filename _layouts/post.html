@@ -13,20 +13,20 @@ scripts: [toc.js,post.js]
             </p>
             <p class="post-tag">
                 <span>{% for cat in page.categories %}<a href="{{ '/category' | prepend: site.baseurl | prepend: site.url }}/#{{ cat }}"><span class="octicon octicon-list-unordered"></span>&nbsp;{{ cat }}</a>{% endfor %}</span>
+                <div id="post-share" class="bdsharebuttonbox">
+                  <a href="#" class="bds_more" data-cmd="more"></a>
+                  <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                  <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                  <a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
+                  <a href="#" class="bds_fbook" data-cmd="fbook" title="分享到Facebook"></a>
+                  <a href="#" class="bds_copy" data-cmd="copy" title="分享到复制网址"></a>
+                </div>
                 <span>{% for tag in page.tags %}
                     <a class="word-keep" href="{{ '/tags' | prepend: site.baseurl | prepend: site.url }}/#{{ tag }}"><span class="octicon octicon-tag"></span>&nbsp;{{ tag }}</a>
                     {% endfor %}
                 </span>
             </p>
           </header>
-          <div id="post-share" class="bdsharebuttonbox">
-              <a href="#" class="bds_more" data-cmd="more"></a>
-              <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
-              <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
-              <a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
-              <a href="#" class="bds_fbook" data-cmd="fbook" title="分享到Facebook"></a>
-              <a href="#" class="bds_copy" data-cmd="copy" title="分享到复制网址"></a>
-          </div>
           <hr class="boundary">
           <article>
             {{content}}
