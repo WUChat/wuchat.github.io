@@ -8,6 +8,14 @@ scripts: [toc.js,post.js]
         <div class="sheet post">
           <header>
             <h2>{{ page.title }}</h2>
+            <div id="post-share" class="bdsharebuttonbox">
+                  <a href="#" class="bds_more" data-cmd="more"></a>
+                  <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                  <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                  <a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
+                  <a href="#" class="bds_fbook" data-cmd="fbook" title="分享到Facebook"></a>
+                  <a href="#" class="bds_copy" data-cmd="copy" title="分享到复制网址"></a>
+                </div>
             <p class="post-meta">
                 <span class="octicon octicon-clock"></span> {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
             </p>
@@ -17,14 +25,6 @@ scripts: [toc.js,post.js]
                     <a class="word-keep" href="{{ '/tags' | prepend: site.baseurl | prepend: site.url }}/#{{ tag }}"><span class="octicon octicon-tag"></span>&nbsp;{{ tag }}</a>
                     {% endfor %}
                 </span>
-                <div id="post-share" class="bdsharebuttonbox">
-                  <a href="#" class="bds_more" data-cmd="more"></a>
-                  <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
-                  <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
-                  <a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
-                  <a href="#" class="bds_fbook" data-cmd="fbook" title="分享到Facebook"></a>
-                  <a href="#" class="bds_copy" data-cmd="copy" title="分享到复制网址"></a>
-                </div>
             </p>
           </header>
           <hr class="boundary">
