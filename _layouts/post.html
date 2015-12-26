@@ -8,6 +8,22 @@ scripts: [toc.js,post.js]
         <div class="sheet post">
           <header>
             <h2>{{ page.title }}</h2>
+            <p class="post-meta">
+                <span class="octicon octicon-clock"></span> {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+            </p>
+            <p class="post-tag">
+                <span>{% for cat in page.categories %}<a href="{{ '/category' | prepend: site.baseurl | prepend: site.url }}/#{{ cat }}"><span class="octicon octicon-list-unordered"></span>&nbsp;{{ cat }}</a>{% endfor %}</span>
+                <span>{% for tag in page.tags %}
+                    <a class="word-keep" href="{{ '/tags' | prepend: site.baseurl | prepend: site.url }}/#{{ tag }}"><span class="octicon octicon-tag"></span>&nbsp;{{ tag }}</a>
+                    {% endfor %}
+                </span>
+            </p>
+          </header>
+          <hr class="boundary">
+          <article>
+            {{content}}
+          </article>
+          <hr class="boundary">
             <div id="post-share" class="bdsharebuttonbox">
                   <a href="#" class="bds_more" data-cmd="more"></a>
                   <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
@@ -15,10 +31,7 @@ scripts: [toc.js,post.js]
                   <a href="#" class="bds_douban" data-cmd="douban" title="分享到豆瓣网"></a>
                   <a href="#" class="bds_fbook" data-cmd="fbook" title="分享到Facebook"></a>
                   <a href="#" class="bds_copy" data-cmd="copy" title="分享到复制网址"></a>
-                </div>
-            <p class="post-meta">
-                <span class="octicon octicon-clock"></span> {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
-            </p>
+            </div>
             <!-- JiaThis Button BEGIN -->
             <div class="jiathis_style">
                 <span class="jiathis_txt">分享到：</span>
@@ -33,19 +46,7 @@ scripts: [toc.js,post.js]
             var jiathis_config = {data_track_clickback:'true'};
             </script>
             <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=2078157" charset="utf-8"></script>
-            <!-- JiaThis Button END -->
-            <p class="post-tag">
-                <span>{% for cat in page.categories %}<a href="{{ '/category' | prepend: site.baseurl | prepend: site.url }}/#{{ cat }}"><span class="octicon octicon-list-unordered"></span>&nbsp;{{ cat }}</a>{% endfor %}</span>
-                <span>{% for tag in page.tags %}
-                    <a class="word-keep" href="{{ '/tags' | prepend: site.baseurl | prepend: site.url }}/#{{ tag }}"><span class="octicon octicon-tag"></span>&nbsp;{{ tag }}</a>
-                    {% endfor %}
-                </span>
-            </p>
-          </header>
-          <hr class="boundary">
-          <article>
-            {{content}}
-          </article>
+          <!-- JiaThis Button END -->
         </div>
         <div class="pad-min"></div>
         <div class="pad-min"></div>
