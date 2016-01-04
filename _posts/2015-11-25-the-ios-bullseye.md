@@ -20,7 +20,7 @@ categories: app
 
 # 下载链接
 
-<a href="https://itunes.apple.com/fr/app/bullseye-simple-game/id1054000246?l=en&mt=8">![applestore][applestore]</a> ![googleplay][googleplay] ![wandoujia][wandoujia]
+[![applestore][applestore]][applelink] [![googleplay][googleplay]][playlink] [![wandoujia][wandoujia]][wandoulink]
 
 [Github]:http://baike.baidu.com/item/github
 [项目主页]:http://wuchat.github.io/BullsEye/
@@ -28,6 +28,12 @@ categories: app
 [logo]: {{"/bullseye/logo.png" =50x50| prepend: site.imgrepo2 }}
 [s1]: {{"/bullseye/s1.jpg" =200x356| prepend: site.imgrepo2 }}
 [s2]: {{"/bullseye/s2.jpg" =200x356| prepend: site.imgrepo2 }}
+
 [applestore]: {{"/applestore.png" | prepend: site.imgrepo2 }}
+[applelink]: https://itunes.apple.com/fr/app/bullseye-simple-game/id1054000246?l=en&mt=8
+
 [googleplay]: {{"/googleplay.png" | prepend: site.imgrepo2 }}
+[playlink]: https://itunes.apple.com/fr/app/bullseye-simple-game/id1054000246?l=en&mt=8
+
 [wandoujia]: {{"/wandoujia.png" | prepend: site.imgrepo2 }}
+[wandoulink]: https://itunes.apple.com/fr/app/bullseye-simple-game/id1054000246?l=en&mt=8
