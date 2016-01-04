@@ -20,7 +20,7 @@ categories: app
 
 # 下载链接
 
-![applestore][applestore] ![googleplay][googleplay] ![wandoujia][wandoujia]
+[![applestore][applestore]][applelink] [![googleplay][googleplay]][playlink] [![wandoujia][wandoujia]][wandoulink]
 
 [Github]:http://baike.baidu.com/item/github
 [Flappy bird]:http://baike.baidu.com/link?url=KKoefLnNvfvLTmmJqXEozlN5JbdT_6kBmbiN9gHkGJbrYWrR5Uc5RLmW4OegLoi3oV_vJ_rmVzn_FZoYXpjAta
@@ -30,6 +30,12 @@ categories: app
 [s1]: {{"/frogbird/s1.jpg" =200x356| prepend: site.imgrepo2 }}
 [s2]: {{"/frogbird/s2.jpg" =200x356| prepend: site.imgrepo2 }}
 [s3]: {{"/frogbird/s3.jpg" =200x356| prepend: site.imgrepo2 }}
+
 [applestore]: {{"/applestore.png" | prepend: site.imgrepo2 }}
+[applelink]: https://wuchat.github.io
+
 [googleplay]: {{"/googleplay.png" | prepend: site.imgrepo2 }}
+[playlink]: https://wuchat.github.io
+
 [wandoujia]: {{"/wandoujia.png" | prepend: site.imgrepo2 }}
+[wandoulink]: https://wuchat.github.io

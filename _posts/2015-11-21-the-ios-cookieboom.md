@@ -20,7 +20,7 @@ categories: app
 
 # 下载链接
 
-![applestore][applestore] ![googleplay][googleplay] ![wandoujia][wandoujia]
+[![applestore][applestore]][applelink] [![googleplay][googleplay]][playlink] [![wandoujia][wandoujia]][wandoulink]
 
 [Github]:http://baike.baidu.com/item/github
 [Candy Crunsh]:http://baike.baidu.com/link?url=jMIxYPsoMrNh3d0KvPd3Mes94_LrZnbhiuwAtksweIwDYvMxqt2qMYrNeE3PQdxek7LHvFSOddhSAqwdEQbBB_
@@ -29,6 +29,12 @@ categories: app
 [logo]: {{"/cookieboom/logo.png" =50x50| prepend: site.imgrepo2 }}
 [s1]: {{"/cookieboom/s1.jpg" =200x356| prepend: site.imgrepo2 }}
 [s2]: {{"/cookieboom/s2.jpg" =200x356| prepend: site.imgrepo2 }}
+
 [applestore]: {{"/applestore.png" | prepend: site.imgrepo2 }}
+[applelink]: https://wuchat.github.io
+
 [googleplay]: {{"/googleplay.png" | prepend: site.imgrepo2 }}
+[playlink]: https://wuchat.github.io
+
 [wandoujia]: {{"/wandoujia.png" | prepend: site.imgrepo2 }}
+[wandoulink]: https://wuchat.github.io
