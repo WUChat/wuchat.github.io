@@ -32,10 +32,10 @@ categories: app
 [s3]: {{"/frogbird/s3.jpg" =200x356| prepend: site.imgrepo2 }}
 
 [applestore]: {{"/applestore.png" | prepend: site.imgrepo2 }}
-[applelink]: https://wuchat.github.io
+[applelink]: http://wuchat.github.io
 
 [googleplay]: {{"/googleplay.png" | prepend: site.imgrepo2 }}
-[playlink]: https://wuchat.github.io
+[playlink]: http://wuchat.github.io
 
 [wandoujia]: {{"/wandoujia.png" | prepend: site.imgrepo2 }}
-[wandoulink]: https://wuchat.github.io
+[wandoulink]: http://wuchat.github.io
