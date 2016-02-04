@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The India Visit 窥视印度：用插图和皮尺为你刨析印度  
+title: The India Visit 窥视印度：用插图和皮尺为你剖析印度  
 tags: 旅游 印度 
 categories: 文学
 ---
